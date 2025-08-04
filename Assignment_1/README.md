@@ -1,1 +1,3 @@
-Assignment 1 folder
+# Assignment_1
+
+This folder was created for your first assignment. Add your assignment materials here.
